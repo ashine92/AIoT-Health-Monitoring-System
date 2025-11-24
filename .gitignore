@@ -1,0 +1,23 @@
+# Python env
+env/
+venv/
+*/env/
+*/venv/
+
+# PyTorch build files
+*.dll
+*.lib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (optional)
+*.pt
+*.pth
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
